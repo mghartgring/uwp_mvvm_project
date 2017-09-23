@@ -22,12 +22,12 @@ namespace uwp_mvvm_template
     /// <summary>
     /// An empty page that can be used on its own or navigated to within a Frame.
     /// </summary>
-    public sealed partial class MainPage : Page
+    public sealed partial class SecondPage : Page
     {
-        public MainPage()
+        public SecondPage()
         {
             this.InitializeComponent();
-            this.DataContext = new MainViewModel();
+            this.DataContext = new SecondViewModel();
         }
     }
 }
