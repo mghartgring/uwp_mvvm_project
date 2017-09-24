@@ -1,6 +1,6 @@
-# UWP MVVM Template
+# UWP MVVM Project
 
-A quick template that integrates the MVVM pattern into a multi-view UWP app.
+A quick project that integrates the MVVM pattern into a multi-view UWP app.
 
 
 
